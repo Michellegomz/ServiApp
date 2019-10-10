@@ -34,6 +34,7 @@ INSTALLED_APPS = [
     'main_app',
     'login',
     'home',
+    'busqueda',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
